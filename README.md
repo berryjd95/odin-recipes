@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipe website
+This is my first attempt at building a website through the odin project. My biggest concern is wokring with GIT because i havent done nything much wiht it at all yet. i feel most confident in text layout.
